@@ -14,7 +14,7 @@ La aplicación está disponible en:
 [https://calorie-tracker-nm.netlify.app/](https://calorie-tracker-nm.netlify.app/)
 
 ## 🛠️ Tecnologías Utilizadas
-- **Frontend**: HTML, CSS, JavaScript
+- **Frontend**: HTML, CSS, JavaScript, TypeScript, React, TailwindCSS
 - **Backend**: No aplica (gestión de datos en el cliente)
 - **Otros**: Puede ser usado en cualquier navegador moderno
 
