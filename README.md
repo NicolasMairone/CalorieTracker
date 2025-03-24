@@ -1,19 +1,17 @@
 # CalorieTracker
 
 ## 📌 Descripción
-**CalorieTracker** es una aplicación web diseñada para ayudarte a llevar el control de las calorías que consumes a lo largo del día. Permite agregar alimentos y calcular las calorías de manera rápida y sencilla, ideal para quienes buscan mejorar su dieta y llevar un registro de su ingesta diaria.
+**CalorieTracker** es una aplicación web diseñada para ayudarte a llevar el control de las calorías que consumes o desgastas a lo largo del día. Permite agregar alimentos y ejercicios, y podedr calcular las calorías de manera rápida y sencilla, ideal para quienes buscan mejorar su dieta y llevar un registro de su ingesta diaria.
 
 ## 🚀 Características
-- Registro de alimentos y cálculo automático de calorías.
+- Registro de alimentos o ejercicios y cálculo automático de calorías.
 - Interfaz intuitiva y fácil de usar.
-- Historial de alimentos ingresados para seguimiento.
+- Historial de alimentos o ejercicios ingresados para seguimiento.
 - Cálculo basado en bases de datos de alimentos comunes.
 
 ## 🌐 Enlace en Producción
 La aplicación está disponible en:  
 [https://calorie-tracker-nm.netlify.app/](https://calorie-tracker-nm.netlify.app/)
-
-https://calorie-tracker-nm.netlify.app/
 
 ## 🛠️ Tecnologías Utilizadas
 - **Frontend**: HTML, CSS, JavaScript
