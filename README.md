@@ -28,7 +28,7 @@ cd CalorieTracker
 ### 🔹 Abrir en un Navegador
 Simplemente abre el archivo `index.html` en cualquier navegador.
 
-### 💡 Contribuciones
+## 💡 Contribuciones
 ¡Las contribuciones son bienvenidas! Para colaborar:
 
 1. Haz un **fork** del repositorio.
@@ -37,8 +37,8 @@ Simplemente abre el archivo `index.html` en cualquier navegador.
 4. Sube los cambios (`git push origin feature-nueva`).
 5. Abre un **Pull Request**.
 
-### 📝 Licencia
+## 📝 Licencia
 Este proyecto está bajo la licencia **MIT**. Puedes usarlo, modificarlo y distribuirlo libremente.
 
-### 📞 Contacto
+## 📞 Contacto
 Si tienes alguna duda o sugerencia, puedes contactarme a través de GitHub, dejar un issue en el repositorio o mediante mail: mairone.nicolas@gmail.com .
